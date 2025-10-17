@@ -4,7 +4,7 @@ The application allows users to create, view, update, and delete tasks.
  
  It uses the browser's **Local Storage** feature to ensure all tasks are saved persistently.
 
-##Features
+## Features
 The application provides full **CRUD** (Create, Read, Update, Delete) functionality:
 
 * **Create (Add Task):** Quickly add new items to the list via the input form.
